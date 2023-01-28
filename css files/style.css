@@ -1,0 +1,212 @@
+* {
+    margin: 0px;
+    padding:0px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.logo img{
+    width: 250px;
+    height: 150px;
+}
+    .navbar {
+        padding: 20px 40px;
+    }
+.navbar-inner {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.navlinks {
+display: flex;
+width: 250px;
+justify-content: space-between;
+}
+
+.navlinks li{
+    list-style-type: none;   
+}
+.navlinks a{
+    text-decoration: none;
+}
+.get-in-touch {
+    display: flex;
+    justify-content: space-between;
+    width: 300px;
+}
+.get-in-touch li {
+    list-style-type: none;
+}
+.get-in-touch a{
+    text-decoration: none;
+}
+.gin-btn {
+    border: red 2px solid;
+    padding: 10px 20px;
+    color: red;
+    transition: all 1s 0s linear;
+}
+.gin-btn:hover {
+    background-color: red;
+    color: black; !important;
+    transform: translateY(20px);
+}
+.header {
+    display: flex;
+    line-height: 40px;
+    justify-content: space-evenly;
+}
+.header-inner1 {
+    font-size: 20px;
+}
+.header h2{
+    font-size: 45px;
+    line-height: 60px;
+    margin-bottom: 30px;
+}
+.header-inner2 {
+    width: 420px;
+}
+.btn {
+    background-color: red;
+    text-decoration: none;
+    padding: 20px 40px;
+    color: white;
+    display: block;
+    width: 100px;
+    text-align: center;
+    margin-top: 30px;
+    
+}
+.btn:hover{
+    box-shadow: 10px 15px 20px black;
+}
+.chatbot {
+    background-color: rgba(124, 26, 42, 0.326);
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+    position: absolute;
+    bottom: 5px;
+    right: 35px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 40px;
+    color: black;
+    cursor: pointer;
+    position: fixed;
+}
+.card {
+   width: 25%;
+   background-color: rgb(167, 153, 153);
+   line-height: 30px;
+   color: white;
+   display: block;
+   justify-content: space-between;
+   padding: 60px 30px;
+
+}
+.card-inner {
+    display: flex;
+    justify-content: space-around;
+    margin: auto;
+}
+.card img{
+    width: 100px;
+    height: 100px;
+}
+.card a{
+    text-decoration: none;
+    color: black;
+}
+.card p{
+    text-align: justify;
+}
+.card:hover{
+    background-color: red;
+}
+ /* Contacts design.. */
+ .contacts{
+    text-align: center;
+    font-size: large;
+ }
+ .contact {
+    display: flex;
+    justify-content: space-between;
+ }
+ .mail, .phone {
+    font-size: 20px;
+    width: 200px;
+    padding: 50px 150px;
+ }
+ .mail {
+    position: absolute;
+    left: 300px;
+ }
+ .phone {
+    position: absolute;
+    right: 200px;
+ }
+ .mail i, .phone i{
+    font-size: 50px;
+ }
+
+.section {
+    display: block;
+    left: 150px;
+}
+.sec1{
+    position: absolute;
+    top: 2220px;
+    line-height: 30px;
+    margin-left: 600px;
+    font-size: large;
+}
+ .footer{
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    padding: 100px;
+    background-color: rgb(43, 21, 21);
+    line-height: 30px;
+    align-items: center;
+ }
+ .company a{
+    text-decoration: none;
+    color: white;
+ }
+ .address i{
+    color: white;
+    font-size: 45px;
+ }
+ .tab {
+   margin: auto;
+   justify-content: space-around;
+   width: auto;
+ }
+ .tab1 {
+    display: flex;
+    background-color: white);
+    justify-content: space-between;
+    align-items: center;
+    margin: auto;
+    width:auto;
+ }
+.tab2{
+    font-size: large;
+    color: black;
+    width: 350px;
+    height: 250px;
+    padding: 100px;
+    justify-content: space-around;
+}
+.tab2 a{
+    text-decoration: none;
+    color: black;
+}
+.set {
+    align-items: center;
+    height: 50px;
+    background-color: black;
+    color: white;
+    
+}

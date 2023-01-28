@@ -1,0 +1,41 @@
+.par1 p{
+    margin-left: 200px;
+    line-height: 30px;
+    color: black;
+    font-size: 20px;
+}
+.par2 {
+    position: absolute;
+    top: 380px;
+    right: 140px;
+    font-size: 20px;
+    line-height: 30px;
+    color: black;
+}
+.par img{
+    width: 1200px;
+    height: 500px;
+    position: absolute;
+    left: 200px;
+}
+.work {
+    margin-left: 450px;
+    line-height: 30px;
+    color: black;
+    font-size: 20px;
+}
+.goal1 {
+    margin-left: 200px;
+    line-height: 30px;
+    color: black;
+    font-size: 20px;
+}
+.goal2 {
+    position: absolute;
+    right: 300px;
+    top: 2050px;
+}
+.goal1 {
+    width: 600px;
+    height: 500px;
+}

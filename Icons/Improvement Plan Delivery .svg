@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="37px" height="53px" viewBox="0 0 37 53" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Improvement Plan Delivery </title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Service-1-Single--Page-1" transform="translate(-260.000000, -2052.000000)">
+            <g id="Improvement-Plan-Delivery-" transform="translate(261.000000, 2053.000000)">
+                <rect id="Rectangle" stroke="#000000" stroke-width="1.24402495" stroke-linecap="round" x="0.207337492" y="0.207337492" width="34.5382794" height="51.0672243" rx="1.05742121"></rect>
+                <line x1="4.13430959" y1="18.5442653" x2="24.3331281" y2="18.5442653" id="Path" stroke="#000000" stroke-width="1.24402495" stroke-linecap="round"></line>
+                <line x1="4.13430959" y1="23.0808096" x2="17.8932256" y2="22.9356734" id="Path" stroke="#000000" stroke-width="1.24402495" stroke-linecap="round"></line>
+                <line x1="4.13430959" y1="27.6215007" x2="12.0380148" y2="27.4722177" id="Path" stroke="#000000" stroke-width="1.24402495" stroke-linecap="round"></line>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="29.3050811 26.273807 26.5972535 26.273807 26.5972535 25.3490818 29.3050811 25.3490818 29.3050811 22.4463569 30.2712738 22.4463569 30.2712738 25.3490818 32.9832482 25.3490818 32.9832482 26.273807 30.2712738 26.273807 30.2712738 29.1765319 29.3050811 29.1765319"></polygon>
+                <circle id="Oval" stroke="#000000" stroke-width="0.829349968" fill-opacity="0.42" fill="#FF0022" fill-rule="nonzero" cx="9.53337788" cy="9.0108874" r="1.82871668"></circle>
+                <path d="M6.531131,15.0775824 C6.51444387,14.9929036 6.5061104,14.9067911 6.50624876,14.8204839 L6.50624876,13.5515785 C6.50853639,12.6897979 7.20779162,11.9924005 8.06957518,11.9924005 L10.9971806,11.9924005 C11.8582908,11.9924005 12.5563602,12.6904683 12.5563602,13.5515785 L12.5563602,14.8204839 C12.5564986,14.9067911 12.5481651,14.9929036 12.531478,15.0775824" id="Path" stroke="#000000" stroke-width="0.829349968" fill-opacity="0.42" fill="#FF0022" fill-rule="nonzero"></path>
+                <rect id="Rectangle" stroke="#000000" x="4.70241432" y="5.41565529" width="9.65778037" height="9.65778037" rx="0.949605713"></rect>
+                <line x1="24.399476" y1="30.1054038" x2="20.1656445" y2="40.2732344" id="Path" stroke="#000000" stroke-width="1.24402495" stroke-linecap="round"></line>
+                <line x1="24.5280253" y1="30.1883388" x2="29.1599449" y2="40.1861527" id="Path" stroke="#000000" stroke-width="1.24402495" stroke-linecap="round"></line>
+                <line x1="21.4511369" y1="36.8480191" x2="27.6712617" y2="36.8480191" id="Path" stroke="#000000" stroke-width="1.24402495"></line>
+            </g>
+        </g>
+    </g>
+</svg>

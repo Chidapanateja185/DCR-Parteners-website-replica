@@ -1,0 +1,45 @@
+.navbar {
+    display: block;
+    width: auto;
+    height: 400px;
+    background-color: rgb(238, 247, 247);
+}
+.navbar h1 {
+    font-size: 50px;
+    font-weight: bolder;
+}
+.blog {
+    position: absolute;
+    left: 200px;
+    font-size: 18px;
+    
+}
+.blog a{
+    text-decoration: none;
+    color: black;
+}
+.frame {
+    position: absolute;
+    right: 270px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.task1 {
+    position: absolute;
+    right: 430px;
+    top: 1200px;
+}
+.img1 {
+    position: absolute;
+    right: 350px; 
+    padding: 40px; 
+    align-items: center; 
+    width: 25px; 
+    height: 10px; 
+    background-color: grey;"
+}
+.task {
+   position: absolute;
+   right: 300px;
+   top: 1290px;
+
+}
